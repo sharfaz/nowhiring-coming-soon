@@ -43,10 +43,9 @@
 		</div>
 		<div class="social">
 		<p>
-			<a href="#"><span class="socicon-pinterest"></span></a>
-			<a href="#"><span class="socicon-instagram"></span></a>
-			<a href="#"><span class="socicon-twitter"></span></a>
-			<a href="#"><span class="socicon-facebook"></span></a>
+			<a href="https://www.instagram.com/nowhiring.lk/"><span class="socicon-instagram"></span></a>
+			<a href="https://twitter.com/nowhiringlk"><span class="socicon-twitter"></span></a>
+			<a href="https://www.facebook.com/Nowhiringlk-194144277618904/"><span class="socicon-facebook"></span></a>
 		</p>
 		</div>
 	</div>
